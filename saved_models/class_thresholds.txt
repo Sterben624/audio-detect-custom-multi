@@ -1,0 +1,11 @@
+speech: threshold=0.380, F1=0.7484
+wind: threshold=0.760, F1=0.8540
+self: threshold=0.470, F1=0.7569
+shahed: threshold=0.510, F1=0.7409
+siren: threshold=0.570, F1=0.7916
+explosion: threshold=0.300, F1=0.7642
+
+Зведена інформація:
+Min threshold: 0.300
+Max threshold: 0.760
+Mean threshold: 0.498
